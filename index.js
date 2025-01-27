@@ -1,7 +1,7 @@
 
 import express from "express";
-import { EnrutadorArticulo } from "./routes/articulosRoutes.js";
-import { Articulo } from "./models/Articulo.js";
+//import { EnrutadorArticulo } from "./routes/articulosRoutes.js";
+//import { Articulo } from "./models/Articulo.js";
 
 
 const app= express();
