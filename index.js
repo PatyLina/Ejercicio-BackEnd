@@ -13,5 +13,5 @@ const PORT=3030;
 //app.use('/api/articulos',EnrutadorArticulo(Articulo));
 
 app.listen(PORT,()=>{
-     console.log("Servidor a la espera!!!!!!!!!!");
+     console.log("Servidor a la espera!!!!!");
 })
